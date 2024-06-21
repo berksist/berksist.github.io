@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://berksist.github.io/sitemap
+Sitemap: https://berksist.github.io/app/sitemap
+Sitemap: https://berksist.github.io/assets/sitemap
+Sitemap: https://berksist.github.io/css/sitemap
+Sitemap: https://berksist.github.io/includes/sitemap
+Sitemap: https://berksist.github.io/item/sitemap
+Sitemap: https://berksist.github.io/src/sitemap
